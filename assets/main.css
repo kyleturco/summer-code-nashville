@@ -1,0 +1,37 @@
+.main-content {
+  margin-bottom: 10rem;
+}
+
+.page-header {
+  background: cornflowerblue;
+  padding: 6rem;
+  margin: 0 0 4rem;
+}
+
+.page-header__title {
+  color: white;
+  margin: 0;
+}
+
+.subheader {
+  color: cornflowerblue;
+}
+
+.activity__list {
+  margin-top: 2rem;
+}
+
+.activity__list-item {
+  padding-bottom: 1rem;
+}
+
+.activity__image {
+  margin: 2rem 0;
+  max-width: 50rem;
+  width: 100%;
+}
+
+p, li {
+  font-size: 1.75rem;
+  line-height: 2.75rem;
+}
